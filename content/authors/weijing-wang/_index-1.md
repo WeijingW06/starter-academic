@@ -22,7 +22,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/feed/
 organizations:
   - name: Louisville Metro, KY
     url: https://louisvilleky.gov/government/public-works
