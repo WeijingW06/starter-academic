@@ -1,6 +1,6 @@
 ---
 title: Weijing Wang
-role: Professor of Artificial Intelligence
+role: Transportation Planner II
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
