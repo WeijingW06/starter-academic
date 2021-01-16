@@ -28,13 +28,13 @@ organizations:
     url: https://louisvilleky.gov/government/public-works
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Master of Urban and Regional Planning
+      institution: Michigan State University
+      year: 2019
+    - course: Bachelor of Landscape Architecture
+      institution: " Huazhong Agricultural University"
+      year: 2014
+email: weijingw06@gmail.com
 superuser: true
 highlight_name: false
 ---
