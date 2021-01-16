@@ -26,6 +26,8 @@ social:
 organizations:
   - name: Louisville Metro, KY
     url: https://louisvilleky.gov/government/public-works
+  - name: Michigan Department of Transportation
+    url: https://www.michigan.gov/mdot/
 education:
   courses:
     - course: Master of Urban and Regional Planning
