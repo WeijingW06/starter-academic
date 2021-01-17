@@ -1,5 +1,5 @@
 ---
-widget: https://weijingwang.netlify.app
+widget: Weijing Wang
 widget_id: Wang
 headless: true
 weight: 20
